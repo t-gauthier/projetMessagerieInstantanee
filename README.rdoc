@@ -1,0 +1,38 @@
+== Projet MSN
+
+== Description :
+Projet réalisé dans le cadre du Master 1 Informatique à l'université d'Angers.
+
+http://www.info.univ-angers.fr/ens_m1info.php
+
+== Sujet :
+Il s'agit de concevoir une application de messagerie instantanée et semi-décentralisée dont les connexions utilisent le protocole TCP et UDP. Le projet doit avoir au minimum :
+
+* Mise en connexion entre client et serveur (Vérification par mot de passe)
+
+* Echange de message. Si un utilisateur désire communiquer avec un autre, il récupère son adresse IP par l'intermédiaire du serveur et négocie une nouvelle connexion avec son client
+
+* Une échange régulier est effectué entre chaque client et le serveur pour connaître l'état de chacun
+
+== Améliorations
+* A venir
+
+== Outils et Méthodologie
+
+* GANTT
+* Logiciel de versionning
+* Méthodes Agiles (Kanban/Scrum/XP)
+* Protocole TCP et UDP, programmation Socket en Java
+* IDE Eclipse
+* Tests Unitaires JUnit
+* Compilation avec Ant
+
+
+== Groupe de projet
+* FARDILHA Mickaël
+* {COFFINET Dorian}[http://github.com/geeknbar]
+* {GAUTHIER Thibault}[http://github.com/thgauthier]
+* PILLIE Raphaël
+
+== Environnement requis
+* Java 7

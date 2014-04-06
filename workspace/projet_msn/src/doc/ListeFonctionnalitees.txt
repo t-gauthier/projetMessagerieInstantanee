@@ -1,0 +1,18 @@
+Fonctionnalités :
+	Discution entre deux personnes
+	Discutions simultannées 
+	Discution de groupe
+	Ajout d'un statut
+	Création de groupes tel que les personnes appartenant au groupe X ne peuvent communiquer avec les personnes du groupe Y
+	Envoie de fichiers dans une conversation
+	Paramétrage possible pour la connexion au serveur (adresse et port serveur, port personnel)
+	Sauvegarde des paramètres lors de la fermeture (propre) du client
+	Raccourcis sur touche Entrer (connexion et envoie d'un message)
+	Login/Password pour la connexion
+	Possibilité d'ajouter un utilisateur grace à la console du serveur : utiliser la commande "ADD LOGIN" 
+
+Messages d'erreur :
+	- Impossible de se connecter au serveur
+	- Login/Password incorrect
+	- Erreur de connexion
+	- Temps de connexion dépassé
